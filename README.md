@@ -9,7 +9,7 @@ References:
 
 Folder Structure: <br/>
 CODE: <br/>
-    Jupyter notebooks for image processing (road_detection.ipynb), supervised machine learning (using keras models)<br/>
+<t>Jupyter notebooks for image processing (road_detection.ipynb), supervised machine learning (using keras models)<br/>
 OUTPUT: <br/>
-    CNN Model Outputs - Confusion matrices of different models (models with different number of Convolutional layers)<br/>
-    Preprocessed Image samples - Preprocessed images (structured and unstructured), used for training the CNN model<br/>
+<t>CNN Model Outputs - Confusion matrices of different models (models with different number of Convolutional layers)<br/>
+<t>Preprocessed Image samples - Preprocessed images (structured and unstructured), used for training the CNN model<br/>
